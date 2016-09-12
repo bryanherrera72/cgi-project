@@ -6,4 +6,5 @@ Assignment 2 for Comp 490 with Professor Fitzgerald.
 
 -9/11/16 @ 9:18 PM Fixed the issue where the files where appearing as binaries, also added a page that displays the filesystem info of the server.
 
+-9/11/16 @ 11:01 PM Added in an htaccess file and also made some changes to the landing page. 
 
