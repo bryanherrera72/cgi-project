@@ -8,3 +8,4 @@ Assignment 2 for Comp 490 with Professor Fitzgerald.
 
 -9/11/16 @ 11:01 PM Added in an htaccess file and also made some changes to the landing page. 
 
+-9/11/16 @ 1:02 AM Last push before submitting.Did not get a chance to add the URI handling within .htaccess.
